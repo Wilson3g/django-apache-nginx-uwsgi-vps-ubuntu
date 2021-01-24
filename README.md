@@ -230,6 +230,8 @@ e2/sites-enabled/
 
 * Edit default vhost to your extra website
 
+config Nuxt App https://dev.to/thomas_ph35/how-i-deployed-my-nuxt-app-on-a-rasberry-pi-3apl
+
 ## Setup Django to user Postgres DB
 ```
 sudo apt-get install python-pip python-dev libpq-dev postgresql postgresql-contrib
